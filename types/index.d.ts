@@ -1,0 +1,1 @@
+declare function ConsoleEmbed(object: { title: string, description: string, footer:string, type?: string }): { embed: string, title: string, description: string, footer: string, type: string  };

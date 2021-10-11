@@ -1,0 +1,30 @@
+{
+    "name": "console-embed",
+    "version": "1.0.0",
+    "description": "A small module to give your users an soft interface to display information",
+    "main": "./lib/index.js",
+    "types": "./types/index.d.ts",
+    "scripts": {
+        "test": "node ./test/index.test.js",
+        "demo": "echo https://runkit.com/embed/lwken7n6k71q",
+        "lint": "eslint .",
+        "fix": "eslint . --fix"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/KK-Designs/console-embed/issues"
+    },
+    "homepage": "https://github.com/KK-Designs/console-embed#readme",
+    "author": "NotBacon",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KK-Designs/console-embed"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2"
+    },
+    "devDependencies": {
+        "eslint": "^8.0.0"
+    }
+}
