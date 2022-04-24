@@ -1,5 +1,5 @@
 # Console Embed
-A small module to give your users an soft interface to display information.
+A small module to give your users a soft interface to display information.
 
 ---
 
@@ -11,7 +11,7 @@ npm i console-embed
 ---
  
 ```diff
-- ⚠ This module does not support all terminals. The best result was in the visual studio code terminal (tested 3 terminals).
+- ⚠ This module does not support all terminals. The best result was in the visual studio code terminal (tested three terminals).
 ```
 
 # Usage
